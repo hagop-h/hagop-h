@@ -1,4 +1,4 @@
-```markdown
+
 # Hagop Hannachian
 
 👋 Hi there! I'm Hagop Hannachian, a passionate problem solver and software enthusiast. Welcome to my GitHub profile! 
