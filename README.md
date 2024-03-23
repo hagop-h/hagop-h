@@ -1,7 +1,7 @@
 
 # Hagop Hannachian
 
-👋 Hi there! I'm Hagop Hannachian, a passionate problem solver and software enthusiast. Welcome to my GitHub profile! 
+👋 Hello! I'm Hagop Hannachian, an ambitious student of computer science fueled by curiosity and a relentless desire to learn and grow in the ever-evolving world of technology.
 
 ```python
 from HagopHannachian import information as info
