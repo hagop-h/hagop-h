@@ -7,7 +7,7 @@
 from HagopHannachian import information as info
 Name = "Hagop"
 Title = "Mastering the Craft: A Journey from Novice to Expert"
-Studying = ["Computer Science"]
+Studying = ["Data Science"]
 CodingIn = ["Python", "Java", "C", "SQL", "R", "HTML", "CSS", "JavaScript", "PHP"]
 OtherInterests = ["Sports", "Game Development"]
 print(info.secret())
