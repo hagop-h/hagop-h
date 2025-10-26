@@ -1,51 +1,77 @@
-
 # Hagop Hannachian
 
-👋 Hello! I'm Hagop Hannachian, an ambitious student of data science fueled by curiosity and a relentless desire to learn and grow in the ever-evolving world of technology.
+👋 Hello! I'm **Hagop Hannachian**, a passionate **Data Engineer** and **MSc student in Data Science** driven by curiosity, innovation, and a relentless desire to master the world of data and technology.
 
 ```python
 from HagopHannachian import information as info
 Name = "Hagop"
-Title = "Mastering the Craft: A Journey from Novice to Expert"
-Studying = ["Data Science"]
-CodingIn = ["Python", "Java", "C", "SQL", "R", "HTML", "CSS", "JavaScript", "PHP"]
+Title = "Mastering the Craft: From Data to Insight"
+Role = "Data Engineer"
+Experience = "2 years"
+Studying = ["Data Science - Université Paris-Saclay (Master 2)"]
+WorkingAt = "EDF – Data & IA Factory"
+CodingIn = ["Python", "Java", "SQL", "R", "HTML", "CSS", "JavaScript", "PHP"]
 OtherInterests = ["Sports", "Game Development"]
 print(info.secret())
 ```
+
 > Secret : Hard work betrays none...
 
-## Skills
+---
 
-- **Algorithmic Problem Solving:** Proficient in various algorithms including A\*, Dijkstra, and graph theory. Experienced in solving complex problems using minmax algorithms.
+## 🎓 About Me
 
-### Programming Languages
+🎓 Étudiant en **Master 2 Informatique – Science des Données** à l’**Université Paris-Saclay** et **Data Engineer en alternance** au sein de la **Data & IA Factory d’EDF**.
 
-- Python ![Python](https://progress-bar.dev/80/?title=Python)
-- Java ![Java](https://progress-bar.dev/80/?title=Java)
-- C ![C](https://progress-bar.dev/80/?title=C)
-- SQL ![SQL](https://progress-bar.dev/70/?title=SQL)
-- R ![R](https://progress-bar.dev/60/?title=R)
+💡 Passionné par la **valorisation de la donnée** et les **enjeux liés à l’intelligence artificielle**, j’interviens sur **l’ensemble du cycle de vie des données** : ingestion, transformation, industrialisation et déploiement.
 
-- HTML ![HTML](https://progress-bar.dev/80/?title=HTML)
-- CSS ![CSS](https://progress-bar.dev/70/?title=CSS)
-- JavaScript ![JavaScript](https://progress-bar.dev/70/?title=JavaScript)
-- PHP ![PHP](https://progress-bar.dev/60/?title=PHP)
+🤝 J’apporte également mon support aux **Data Scientists**, en facilitant l’accès, la fiabilité et la mise en production des données nécessaires à leurs projets de **Machine Learning / Deep Learning**.
 
+---
 
-- **Operating Systems:** Experienced in both Windows and Linux environments.
-- **Version Control:** Skilled in using Git and SVN for efficient collaboration and code management.
-- **Artificial Intelligence:** Familiar with various techniques used in artificial intelligence, always exploring new advancements in the field.
-- **Project Management:** Competent in utilizing tools like Latex, UML, and Software Engineering Requirements for effective project management.
+## 🧠 Skills
 
-## Assets
+### 🔹 Core Expertise
 
-- **Adaptability:** I thrive in dynamic environments and quickly adapt to new challenges and technologies.
-- **Effective Communication:** I believe in clear and concise communication to ensure successful collaboration and understanding among team members.
-- **Collaboration and Teamwork:** I enjoy working collaboratively towards common goals, we rise by lifting others...
-## Interests
+* **Data Engineering:** Data pipelines, ETL, orchestration, CI/CD
+* **Machine Learning / Deep Learning:** model training, optimization, and deployment
+* **Data Visualization:** Power BI, Tableau
+* **DevOps / DataOps:** Docker, Airflow, Git, AWS S3, IBM Cloud
 
-- **Sports:** I am passionate about staying active and enjoy participating in various sports activities.
-- **Game Development:** I have a keen interest in game development and love exploring the intersection of technology and creativity.
+### 🔹 Programming Languages
 
-Feel free to explore my repositories and don't hesitate to reach out if you have any questions or opportunities for collaboration! Let's connect and create something amazing together. 🚀
+* Python ![Python](https://progress-bar.dev/90/?title=Python)
+* Java ![Java](https://progress-bar.dev/80/?title=Java)
+* SQL ![SQL](https://progress-bar.dev/85/?title=SQL)
+* R ![R](https://progress-bar.dev/70/?title=R)
+* HTML ![HTML](https://progress-bar.dev/80/?title=HTML)
+* CSS ![CSS](https://progress-bar.dev/70/?title=CSS)
+* JavaScript ![JavaScript](https://progress-bar.dev/70/?title=JavaScript)
+* PHP ![PHP](https://progress-bar.dev/60/?title=PHP)
 
+### 🔹 Libraries & Tools
+
+* **Python Ecosystem:** Pandas, Polars, Scikit-learn, NumPy, Matplotlib
+* **Data Engineering Tools:** Airflow, Docker, Git, AWS S3, IBM Cloud
+* **Visualization:** Power BI, Tableau
+* **Version Control & Collaboration:** Git, GitHub, GitLab
+
+---
+
+## 💼 Key Strengths
+
+* **Adaptability:** Thrive in dynamic, fast-paced environments.
+* **Collaboration & Teamwork:** Believe that great data solutions come from great teamwork.
+* **Effective Communication:** Clear and open communication to ensure smooth project execution.
+* **Continuous Learning:** Always exploring the latest in AI, cloud technologies, and automation.
+
+---
+
+## ⚡ Interests
+
+* **Sports:** Staying active keeps my mind sharp and focused.
+* **Game Development:** Love blending creativity with code — where logic meets imagination.
+
+---
+
+💬 *Feel free to explore my repositories and connect wiht me in in linkedin if you’d like to collaborate or discuss data engineering, AI, or innovative tech projects.*
