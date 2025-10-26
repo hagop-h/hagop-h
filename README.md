@@ -1,10 +1,7 @@
 # Hagop Hannachian
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin\&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/)
-[![Python](https://img.shields.io/badge/Python-Expert-yellow?logo=python)](https://www.python.org/)
-[![Data Science](https://img.shields.io/badge/Data%20Science-Passionate-blueviolet?logo=dataspell\&logoColor=white)](#)
-[![AI](https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-green?logo=ai)](#)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/hagop-hannachian-961bb9263/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/hagop-h)
 
 ---
 
