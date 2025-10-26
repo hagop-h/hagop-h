@@ -1,31 +1,41 @@
 # Hagop Hannachian
 
-👋 Hello! I'm **Hagop Hannachian**, a passionate **Data Engineer** and **MSc student in Data Science** driven by curiosity, innovation, and a relentless desire to master the world of data and technology.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin\&logoColor=white)](#)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?logo=github)](https://github.com/)
+[![Python](https://img.shields.io/badge/Python-Expert-yellow?logo=python)](https://www.python.org/)
+[![Data Science](https://img.shields.io/badge/Data%20Science-Passionate-blueviolet?logo=dataspell\&logoColor=white)](#)
+[![AI](https://img.shields.io/badge/AI%20%26%20ML-Enthusiast-green?logo=ai)](#)
+
+---
+
+👋 Hello! I'm **Hagop Hannachian**, a passionate **Data Engineer** and **MSc student in Data Science**, driven by curiosity, innovation, and a relentless desire to master the world of **data, AI, and technology**.
 
 ```python
 from HagopHannachian import information as info
+
 Name = "Hagop"
 Title = "Mastering the Craft: From Data to Insight"
-Role = "Data Engineer"
+Role = "Data Engineer & Data Scientist"
 Experience = "2 years"
 Studying = ["Data Science - Université Paris-Saclay (Master 2)"]
-WorkingAt = "EDF – Data & IA Factory"
+WorkingAt = "EDF – Data & AI Factory"
 CodingIn = ["Python", "Java", "SQL", "R", "HTML", "CSS", "JavaScript", "PHP"]
 OtherInterests = ["Sports", "Game Development"]
+
 print(info.secret())
 ```
 
-> Secret : Hard work betrays none...
+> 🧠 **Secret:** Hard work betrays none...
 
 ---
 
 ## 🎓 About Me
 
-🎓 Étudiant en **Master 2 Informatique – Science des Données** à l’**Université Paris-Saclay** et **Data Engineer en alternance** au sein de la **Data & IA Factory d’EDF**.
+🎓 I’m currently pursuing a **Master’s Degree in Data Science** at **Université Paris-Saclay**, while working as a **Data Engineer apprentice** at **EDF’s Data & AI Factory**.
 
-💡 Passionné par la **valorisation de la donnée** et les **enjeux liés à l’intelligence artificielle**, j’interviens sur **l’ensemble du cycle de vie des données** : ingestion, transformation, industrialisation et déploiement.
+💡 Passionate about **data valorization** and the **challenges of artificial intelligence**, I work across the **entire data lifecycle** — from ingestion and transformation to industrialization and deployment.
 
-🤝 J’apporte également mon support aux **Data Scientists**, en facilitant l’accès, la fiabilité et la mise en production des données nécessaires à leurs projets de **Machine Learning / Deep Learning**.
+🚀 I aim to bridge the gap between **data engineering** and **machine learning**, ensuring that data-driven systems are **scalable, efficient, and impactful**.
 
 ---
 
@@ -34,24 +44,30 @@ print(info.secret())
 ### 🔹 Core Expertise
 
 * **Data Engineering:** Data pipelines, ETL, orchestration, CI/CD
-* **Machine Learning / Deep Learning:** model training, optimization, and deployment
+* **Machine Learning / Deep Learning:** Model development, fine-tuning, optimization
 * **Data Visualization:** Power BI, Tableau
 * **DevOps / DataOps:** Docker, Airflow, Git, AWS S3, IBM Cloud
 
+---
+
 ### 🔹 Programming Languages
 
-* Python ![Python](https://progress-bar.dev/90/?title=Python)
-* Java ![Java](https://progress-bar.dev/80/?title=Java)
-* SQL ![SQL](https://progress-bar.dev/85/?title=SQL)
-* R ![R](https://progress-bar.dev/70/?title=R)
-* HTML ![HTML](https://progress-bar.dev/80/?title=HTML)
-* CSS ![CSS](https://progress-bar.dev/70/?title=CSS)
-* JavaScript ![JavaScript](https://progress-bar.dev/70/?title=JavaScript)
-* PHP ![PHP](https://progress-bar.dev/60/?title=PHP)
+| Language                                                     | Skill Level  |
+| ------------------------------------------------------------ | ------------ |
+| ![Python](https://progress-bar.dev/90/?title=Python)         | Expert       |
+| ![Java](https://progress-bar.dev/80/?title=Java)             | Advanced     |
+| ![SQL](https://progress-bar.dev/85/?title=SQL)               | Advanced     |
+| ![R](https://progress-bar.dev/70/?title=R)                   | Intermediate |
+| ![HTML](https://progress-bar.dev/80/?title=HTML)             | Advanced     |
+| ![CSS](https://progress-bar.dev/70/?title=CSS)               | Intermediate |
+| ![JavaScript](https://progress-bar.dev/70/?title=JavaScript) | Intermediate |
+| ![PHP](https://progress-bar.dev/60/?title=PHP)               | Basic        |
+
+---
 
 ### 🔹 Libraries & Tools
 
-* **Python Ecosystem:** Pandas, Polars, Scikit-learn, NumPy, Matplotlib
+* **Python Ecosystem:** Pandas, Polars, NumPy, Scikit-learn, TensorFlow, PyTorch, Matplotlib
 * **Data Engineering Tools:** Airflow, Docker, Git, AWS S3, IBM Cloud
 * **Visualization:** Power BI, Tableau
 * **Version Control & Collaboration:** Git, GitHub, GitLab
@@ -61,17 +77,19 @@ print(info.secret())
 ## 💼 Key Strengths
 
 * **Adaptability:** Thrive in dynamic, fast-paced environments.
-* **Collaboration & Teamwork:** Believe that great data solutions come from great teamwork.
-* **Effective Communication:** Clear and open communication to ensure smooth project execution.
-* **Continuous Learning:** Always exploring the latest in AI, cloud technologies, and automation.
+* **Collaboration & Teamwork:** Believe that great data solutions are built by great teams.
+* **Effective Communication:** Clear, transparent, and result-oriented communication.
+* **Continuous Learning:** Constantly exploring innovations in **AI**, **cloud technologies**, and **automation**.
 
 ---
 
 ## ⚡ Interests
 
-* **Sports:** Staying active keeps my mind sharp and focused.
-* **Game Development:** Love blending creativity with code — where logic meets imagination.
+* 🏋️‍♂️ **Sports:** Staying active keeps my body strong and my mind sharp.
+* 🤖 **Machine Learning & Deep Learning:** Turning data into intelligent systems that learn and adapt.
+* 🎮 **Game Development:** Where logic meets imagination — blending creativity with code.
 
 ---
 
-💬 *Feel free to explore my repositories and connect wiht me in in linkedin if you’d like to collaborate or discuss data engineering, AI, or innovative tech projects.*
+💬 *Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/hagop-hannachian-961bb9263) if you’d like to collaborate or discuss data engineering, machine learning, or innovative tech projects.*
+
