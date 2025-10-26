@@ -51,7 +51,7 @@ print(info.secret())
 
 | Language                                                     | Skill Level  |
 | ------------------------------------------------------------ | ------------ |
-| ![Python](https://progress-bar.dev/90/?title=Python)         | Expert       |
+| ![Python](https://progress-bar.dev/90/?title=Python)         | Advanced     |
 | ![Java](https://progress-bar.dev/80/?title=Java)             | Advanced     |
 | ![SQL](https://progress-bar.dev/85/?title=SQL)               | Advanced     |
 | ![R](https://progress-bar.dev/70/?title=R)                   | Intermediate |
